@@ -1,2 +1,2 @@
 # simpleMath
-Mobile app for  improve mathematical skills. (play store, android development, react native)
+Mobile app for  improveing mathematical skills. (play store, android development, react native)
